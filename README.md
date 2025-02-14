@@ -41,11 +41,11 @@ The game utilizes an external API to retrieve words and validate guesses for all
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/wordle-game.git
+   git clone https://github.com/dqtienxdd/wordle
    ```
 2. Navigate to the project directory:
    ```bash
-   cd wordle-game
+   cd wordle
    ```
 3. Start the server:
    ```bash
