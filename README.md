@@ -41,7 +41,7 @@ The game utilizes an external API to retrieve words and validate guesses for all
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dqtienxdd/wordle
+   git clone https://github.com/dqtienxdd/wordle.git
    ```
 2. Navigate to the project directory:
    ```bash
